@@ -16,7 +16,7 @@ After 5 years of working as a researcher and developer of radiation decontaminat
 
 <br />
 
-### 📫 How to reach me:
+### How to reach me:
 
 [<img align="left" alt="pydspyds | telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][telegram]
 [<img align="left" alt="pydspyds | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
