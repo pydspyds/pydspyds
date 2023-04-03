@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 [linkedin]: https://www.linkedin.com/in/pydspyds/
 [telegram]: https://t.me/pydsy
-[gmail]: mailto:pyds1809@gmail.com
+[gmail]: pyds1809@gmail.com
