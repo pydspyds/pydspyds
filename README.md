@@ -3,8 +3,8 @@
 #### I'm a beginner data analyst.   
 After 5 years of working as a researcher and developer of radiation decontamination technologies, decided to change my career direction and dive into data analysis, so I graduated from [Yandex Practicum (Data Analysis) courses](https://practicum.yandex.ru/data-analyst-bootcamp/) in March 2023 and keep learning on my own.
 
-- 🔭 I’m currently no working anywhere, so you could be that lucky one to hire me C^:
-- 🌱 I’m currently learning basics of machine learning 
+- I’m currently no working anywhere, so you could be that lucky one to hire me C^:
+- I’m currently learning basics of machine learning 
 
 ### Languages and Tools:
 
