@@ -24,6 +24,6 @@ After 5 years of working as a researcher and developer of radiation decontaminat
 
 
 
-[linkedin]: https://www.linkedin.com/in/pydspyds/
+[linkedin]: https://www.linkedin.com/in/artempoliakov/
 [telegram]: https://t.me/pydsy
 [gmail]: mailto:pyds1809@gmail.com
